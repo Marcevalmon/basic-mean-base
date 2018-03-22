@@ -1,5 +1,4 @@
 # Estructura base MEAN
-> Documentación de instalación CTR2017.
 
 ## Clonar proyecto
 Mediante linea de comando, posicionarse en la ubicación en donde se alojará la aplicación.
